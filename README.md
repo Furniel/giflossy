@@ -110,8 +110,7 @@ run-length-encoded GIFs.
 Copyright/License
 -----------------
 
-© 1997-2014 Eddie Kohler and contributors
-
+� 1997-2017 Eddie Kohler and contributors
 IF YOU PLAN TO USE GIFSICLE ONLY TO CREATE OR MODIFY GIF IMAGES, DON'T
 WORRY ABOUT THE REST OF THIS SECTION. Anyone can use Gifsicle however
 they wish; the license applies only to those who plan to copy,
@@ -147,7 +146,7 @@ Anne Dudfield <anne@mazunetworks.com>
 http://www.frii.com/~annied/
 She named it.
 
-Kornel Lesiński <github@pornel.net>
+Kornel Lesinski <github@pornel.net>
 https://kornel.ski
 Lossy compression.
 
